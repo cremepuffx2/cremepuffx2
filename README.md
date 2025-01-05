@@ -6,12 +6,9 @@
 
 - <b>Fashion Images Segmentation</b>
   - [Fashion Images Segmentation Using DETR Backbone](https://github.com/cremepuffx2/Fashion-Images-Segmentation)
-- <b>Pre Facility Booking Exercise Code for SMU Academy</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Pre Facility Booking Exercise Code</b>
+  - [Python Programme to Mass-Book Teaching Venues for SkillsFuture Courses Conducted By SMU Academy](https://github.com/cremepuffx2/Pre-FBE-Code))
 - <b>Data Cleaning Text Files for NLP Processing</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
 <h2> 🤳 Connect with me:</h2>
 
