@@ -12,7 +12,6 @@
   - [Data Cleaning Project Using Regex](https://github.com/cremepuffx2/Data-Cleaning-of-Text-Files)
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Somesh Balamurugan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/someshbala)
+[<img align="left" alt="Somesh Balamurugan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/someshbala)
 
-[linkedin]: www.linkedin.com/in/someshbala
 
