@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1>Hi, I'm Somesh! I'm an undergraduate student who's passionate about AI/ML
 
 <h2>👨‍💻 My projects can be found here:</h2>
