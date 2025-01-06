@@ -9,7 +9,7 @@
 - <b>Pre Facility Booking Exercise Code</b>
   - [Python Programme to Mass-Book Teaching Venues for SkillsFuture Courses Conducted By SMU Academy](https://github.com/cremepuffx2/Pre-FBE-Code))
 - <b>Data Cleaning Text Files for NLP Processing</b>
-  - [Data Cleaning Project](https://github.com/cremepuffx2/Data-Cleaning-of-Text-Files)
+  - [Data Cleaning Project Using Regex](https://github.com/cremepuffx2/Data-Cleaning-of-Text-Files)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Somesh Balamurugan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
