@@ -6,7 +6,7 @@
 - <b>Fashion Images Instance Segmentation</b>
   - [Fashion Images Segmentation Using DETR-Resnet-50 Panoptic Pre-Trained Model from HuggingFace](https://github.com/cremepuffx2/Fashion-Images-Segmentation)
 - <b>Pre Facility Booking Exercise Code</b>
-  - [Python Programme to Mass-Book Teaching Venues for SkillsFuture Courses Conducted By SMU Academy](https://github.com/cremepuffx2/Pre-FBE-Code))
+  - [Python Programme to Mass-Book Teaching Venues for SkillsFuture Courses Conducted By SMU Academy](https://github.com/cremepuffx2/Pre-FBE-Code)
 - <b>Data Cleaning Text Files for NLP Processing</b>
   - [Data Cleaning Project Using Regex](https://github.com/cremepuffx2/Data-Cleaning-of-Text-Files)
 <h2> 🤳 Connect with me:</h2>
