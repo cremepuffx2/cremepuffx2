@@ -4,7 +4,7 @@
 <h2>👨‍💻 My projects can be found here:</h2>
 
 - <b>Coursera Courses Topic Modelling</b>
-  - [Topic Modelling on Course Content in Coursera against Their Respective Course Outlines using Top2Vec Model](https://github.com/cremepuffx2/Top2Vec-Topic-Model)
+  - [Topic Modelling on courses Offered in Coursera, Mapping Actual Content with Their Respective Course Outlines using Top2Vec Model](https://github.com/cremepuffx2/Top2Vec-Topic-Model)
 - <b>Fashion Images Instance Segmentation</b>
   - [Fashion Images Segmentation Using DETR-Resnet-50 Panoptic Pre-Trained Model from HuggingFace](https://github.com/cremepuffx2/Fashion-Images-Segmentation)
 - <b>Pre Facility Booking Exercise Code</b>
